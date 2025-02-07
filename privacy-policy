@@ -1,1 +1,52 @@
-This app does not collect or process any sort of user data and does not send any data outside the app to any server.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Einbürgerungstest Practice App - Privacy Policy</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1, h2 { color: #1a365d; }
+        .container { background: #fff; padding: 20px; border-radius: 8px; }
+        .last-updated { color: #666; font-style: italic; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p class="last-updated">Last Updated: February 7, 2025</p>
+        
+        <h2>1. Introduction</h2>
+        <p>This privacy policy explains how our Einbürgerungstest Practice App handles your data. We are committed to protecting your privacy and being transparent about our practices.</p>
+        
+        <h2>2. Data Collection and Usage</h2>
+        <p>Our app does NOT collect or transmit any personal data. All data, including:</p>
+        <ul>
+            <li>Progress tracking</li>
+            <li>Bookmarked questions</li>
+            <li>Practice test results</li>
+            <li>Settings preferences</li>
+        </ul>
+        <p>is stored locally on your device only and is never transmitted to our servers or any third parties.</p>
+        
+        <h2>3. Internet Permission</h2>
+        <p>The app does not require or use internet access. All functionality works offline.</p>
+        
+        <h2>4. Third-Party Services</h2>
+        <p>We do not integrate with any third-party services or analytics platforms.</p>
+        
+        <h2>5. Data Retention</h2>
+        <p>All data is stored locally on your device and remains there until you uninstall the app or clear app data through your device settings.</p>
+        
+        <h2>6. Contact</h2>
+        <p>For any privacy-related questions, please contact the email on the play store listing.</p>
+    </div>
+</body>
+</html>
